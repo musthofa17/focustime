@@ -24,7 +24,7 @@ export const Focus = ({ addSubject }) => {
 
 const styles = StyleSheet.create({
   container: {
-    
+    // Some Code Here
   },
   inputText: {
     flex: 1,
